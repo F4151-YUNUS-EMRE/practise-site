@@ -1,0 +1,187 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+nav.nav-top{
+    background-color: purple;
+    background-image: linear-gradient(to right,white, rgba(128, 0, 128, 0.534));
+    padding: 1rem;
+}
+
+body{
+    font-family: "Open Sans";
+}
+
+.nav-top img{
+    width: 50px;
+    border: 1px solid red;
+    outline:3px solid red;
+    outline-offset: 3px;
+    
+    
+}
+
+.nav-top .sign-in{
+    float: right;
+    margin: 1.5rem 1rem;
+    color: white;
+    font-weight: 700;
+}
+
+.sign-in a{
+    text-decoration: none;
+    color: white;
+}
+
+.nav-main{
+    background-color: rgb(255, 140, 0);
+    text-align: center;
+    position: sticky;
+    top: 0;
+    font-size: 1.2rem;
+    line-height: 30px;
+    padding: 2rem;
+}
+
+
+    
+
+.clearfix {
+    clear: both;
+}
+
+.nav-main a{
+    text-decoration: none;
+    color: black;
+    font-family: "DynaPuff", cursive;
+    margin-right: 1rem;
+}
+
+main p{
+    text-align: justify;
+    margin: 1.4rem 1.7rem;
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+.slack{
+    position: fixed;
+    bottom: 3rem;
+    right: 3rem;
+    background-color: red;
+    font-size: 2rem;
+    color: white;
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+    text-align: center;
+    padding: 0.2rem;
+}
+
+.slack i:hover{
+    color: black;
+    font-weight: 600;
+}
+    
+
+
+    
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
